@@ -9,7 +9,7 @@ Add your project screenshot below.
 ![AI Data Analyst Dashboard](dataset_preview.png)
 ![AI Data Analyst Dashboard](download_report.png)
 
-![AI Data Analyst Dashboard](dataset_preview.png)
+![AI Data Analyst Dashboard](ask_for_chart1.png)
 
 ![AI Data Analyst Dashboard](dataset_preview.png)
 
