@@ -1,1 +1,1 @@
-# AI-Data-Analyst-Using-Python-Streamlit-Gemini-AI
+An AI-powered Data Analyst application built using Python, Pandas, Streamlit, and Google Gemini API. It allows users to upload CSV files, explore datasets, generate charts using natural-language requests, analyze sales data, get AI-powered insights, and download reports.
