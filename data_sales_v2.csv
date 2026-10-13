@@ -1,0 +1,9 @@
+Date,Product,Category,Quantity,Price,Region
+2026-01-05,Laptop,Electronics,2,50000,West
+2026-01-10,Mouse,Accessories,10,500,West
+2026-02-03,Phone,Electronics,3,20000,South
+2026-02-15,Keyboard,Accessories,5,1500,North
+2026-03-01,Laptop,Electronics,1,50000,South
+2026-03-12,Phone,Electronics,4,20000,West
+2026-03-20,Mouse,Accessories,15,500,North
+2026-03-25,Monitor,Electronics,2,12000,East
