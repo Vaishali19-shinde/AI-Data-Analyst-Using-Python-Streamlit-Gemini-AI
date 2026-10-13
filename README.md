@@ -11,9 +11,9 @@ Add your project screenshot below.
 
 ![AI Data Analyst Dashboard](ask_for_chart1.png)
 
-![AI Data Analyst Dashboard](dataset_preview.png)
+![AI Data Analyst Dashboard](gemini_business_insight.png)
 
-![AI Data Analyst Dashboard](dataset_preview.png)
+![AI Data Analyst Dashboard](ask_data_analyst.png)
 
 v
 
