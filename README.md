@@ -15,7 +15,7 @@ Add your project screenshot below.
 
 ![AI Data Analyst Dashboard](ask_data_analyst.png)
 
-v
+
 
 *AI Data Analyst Dashboard built using Python, Streamlit, and Gemini AI.*
 
