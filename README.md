@@ -6,7 +6,16 @@ An AI-powered data analysis application that helps users explore datasets, analy
 
 Add your project screenshot below.
 
-![AI Data Analyst Dashboard](img1.png)
+![AI Data Analyst Dashboard](dataset_preview.png)
+![AI Data Analyst Dashboard](dataset_preview.png)
+
+![AI Data Analyst Dashboard](dataset_preview.png)
+
+![AI Data Analyst Dashboard](dataset_preview.png)
+
+![AI Data Analyst Dashboard](dataset_preview.png)
+
+v
 
 *AI Data Analyst Dashboard built using Python, Streamlit, and Gemini AI.*
 
