@@ -7,7 +7,7 @@ An AI-powered data analysis application that helps users explore datasets, analy
 Add your project screenshot below.
 
 ![AI Data Analyst Dashboard](dataset_preview.png)
-![AI Data Analyst Dashboard](dataset_preview.png)
+![AI Data Analyst Dashboard](download_report.png)
 
 ![AI Data Analyst Dashboard](dataset_preview.png)
 
