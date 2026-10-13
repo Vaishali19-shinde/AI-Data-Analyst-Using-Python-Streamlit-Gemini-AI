@@ -19,7 +19,6 @@ Add your project screenshot below.
 
 *AI Data Analyst Dashboard built using Python, Streamlit, and Gemini AI.*
 
-> **Note:** Save your screenshot in a folder named `screenshots` with the filename `dashboard.png`. If you use a different filename, update the image path above.
 
 ## 🚀 Features
 
